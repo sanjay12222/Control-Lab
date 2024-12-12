@@ -1,1 +1,1 @@
-# Control-Lab
+# Control Lab
